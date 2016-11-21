@@ -5,6 +5,10 @@
     width: 350px;
     margin: 0 auto;
 }
+.container {
+    margin-top: 40px;
+    position: relative;
+}
 button {
     font-family: "Lato";
     padding: 10px;
